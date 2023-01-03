@@ -5,7 +5,6 @@
     android:layout_height="match_parent"
     android:orientation="horizontal">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
         android:id="@+id/fragment_header"
         android:layout_width="wrap_content"
@@ -13,7 +12,7 @@
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
         android:padding="4dp"
         android:layout_weight="1"
-        android:textSize="24sp"
+        android:textSize="20sp"
         android:text="@string/question_article"/>
 
     <RadioGroup
@@ -24,12 +23,12 @@
         android:layout_weight="1"
         android:orientation="horizontal">
 
+
         <RadioButton
             android:id="@+id/radio_button_yes"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
-
             android:text="@string/yes"/>
 
         <RadioButton
@@ -37,7 +36,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
-
             android:text="@string/no"/>
     </RadioGroup>
 
