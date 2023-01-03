@@ -5,4 +5,8 @@
     <string name="question_article">Вам навится эта статья?</string>
     <string name="yes">YES</string>
     <string name="no">NO</string>
+    <string name="yes_message">LIKE IT</string>
+    <string name="no_message">THANX FOR ANSWER</string>
+    <string name="title1">Cry of a Shadow</string>
+    <string name="article1">Привет. Ты попал на эту страницу, дак теперь читай. Если тебе инстересно, то продолжай читать. Если нет, то хотя бы дочитай до конца этого предложения. А в общем, этот текст не настолько интересен, он сделан ради того, чтобы просто заполнить данное поле!</string>
 </resources>
